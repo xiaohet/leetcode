@@ -5,3 +5,5 @@ At present, this repository has solutions to:
 Brace Expansion II: https://leetcode.com/problems/brace-expansion-ii/description/
 
 Maximum Number of Non-overlapping Palindrome Substrings: https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
+
+Generate Parentheses: https://leetcode.com/problems/generate-parentheses/description/
