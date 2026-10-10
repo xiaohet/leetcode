@@ -11,3 +11,5 @@ Generate Parentheses: https://leetcode.com/problems/generate-parentheses/descrip
 Longest Valid Parentheses: https://leetcode.com/problems/longest-valid-parentheses/description/ 
 
 Remove Invalid Parentheses: https://leetcode.com/problems/remove-invalid-parentheses/description/ 
+
+LC2333: Minimum Sum of Squared Difference: https://leetcode.com/problems/minimum-sum-of-squared-difference/description/ 
